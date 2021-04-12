@@ -45,6 +45,6 @@
 
 <p align="center">
   <a href="https://youtube.com/c/MRAGZ69"><img src="https://img.shields.io/badge/YouTube-mankaguz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/MRAGZ69" /></a>
-  <a href="mailto:ekaaditya308@gmail.com"><img src="https://img.shields.io/badge/Gmail-@mankaguz-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto: ekaaditya308@gmail.com" /></a>
+  <a href="mailto:ekaaditya308@gmail.com"><img src="https://img.shields.io/badge/Gmail-@mankaguz-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:ekaaditya308@gmail.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=mankaguz&label=VIEWS&style=flat-square&color=orange" />
 </p>
